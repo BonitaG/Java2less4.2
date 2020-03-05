@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76bad955-ed0e-4284-bc5e-12173777aaff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1RbhdEPD62SWGmmn9j0dfhcdTQY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550764295545" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lesson4.2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76bad955-ed0e-4284-bc5e-12173777aaff" name="Default Changelist" comment="" />
+      <created>1546591918101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546591918101</updated>
+      <workItem from="1546591920592" duration="1416000" />
+      <workItem from="1547907564466" duration="1675000" />
+      <workItem from="1550758469643" duration="2034000" />
+      <workItem from="1569941788813" duration="1661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="972" height="141" key="GridCell.Tab.0.bottom" timestamp="1581432798469">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798469" />
+    <state width="972" height="499" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431408276" />
+    <state width="714" height="196" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575878425837" />
+    <state width="972" height="141" key="GridCell.Tab.0.center" timestamp="1581432798467">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798467" />
+    <state width="972" height="499" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431408271" />
+    <state width="714" height="196" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575878425836" />
+    <state width="972" height="141" key="GridCell.Tab.0.left" timestamp="1581432798466">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798466" />
+    <state width="972" height="499" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431408266" />
+    <state width="714" height="196" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575878425835" />
+    <state width="972" height="141" key="GridCell.Tab.0.right" timestamp="1581432798468">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798468" />
+    <state width="972" height="499" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431408274" />
+    <state width="714" height="196" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575878425836" />
+    <state width="972" height="141" key="GridCell.Tab.1.bottom" timestamp="1581432798472">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798472" />
+    <state width="972" height="499" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431407735" />
+    <state width="1388" height="259" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575878313498" />
+    <state width="972" height="141" key="GridCell.Tab.1.center" timestamp="1581432798470">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798470" />
+    <state width="972" height="499" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431407733" />
+    <state width="1388" height="259" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1575878313497" />
+    <state width="972" height="141" key="GridCell.Tab.1.left" timestamp="1581432798469">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798469" />
+    <state width="972" height="499" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431407731" />
+    <state width="1388" height="259" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1575878313496" />
+    <state width="972" height="141" key="GridCell.Tab.1.right" timestamp="1581432798471">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="972" height="141" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432798471" />
+    <state width="972" height="499" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1024.745@1440.23.1024.745" timestamp="1581431407734" />
+    <state width="1388" height="259" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1575878313497" />
+    <state x="343" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1575899326555">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="343" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1575899326555" />
+    <state x="343" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1575878381925" />
+    <state x="0" y="23" key="new project wizard" timestamp="1581432794365">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.877/1440.23.1024.745@0.23.1440.877" timestamp="1581432794365" />
+  </component>
+</project>
